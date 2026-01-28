@@ -1,9 +1,6 @@
 
 # 📊 Bank Loan Analysis Dashboard (Excel)
-## 📸 Dashboard Preview
 
-### 
-![Bank Dashboard](https://github.com/nikitawarade11/Bank-Loan-Excel-Dashboard/blob/main/bank.png)
 
 ### 
 ![Banking](https://github.com/nikitawarade11/Bank-Loan-Excel-Dashboard/blob/main/bank2.jpg)
@@ -22,6 +19,7 @@ The objective of this project is to:
 - Identify risk and performance patterns in loan data
 
 ---
+## 📸 Dashboard Preview
 
 ## 📂 Files Included in This Repository
 - **Bank_Loan_Data.xlsx** – Raw bank loan dataset  
@@ -35,7 +33,11 @@ The objective of this project is to:
 ---
 
 ## 📊 Dashboards Description
+### Overview Dashboard
+![Summary Dashboard](https://github.com/nikitawarade11/Bank-Loan-Excel-Dashboard/blob/main/summary%20dashboard.png)
 
+### Summary Dashboard
+![Overview Dashboard](https://github.com/nikitawarade11/Bank-Loan-Excel-Dashboard/blob/main/overview%20dashboard.png)
 ### 🔹 Summary Dashboard
 - Total Loan Applications  
 - Total Funded Amount  
@@ -82,15 +84,7 @@ The objective of this project is to:
 - Loan applications show steady month-over-month growth
 
 ---
-### Overview Dashboard
-![Summary Dashboard](https://github.com/nikitawarade11/Bank-Loan-Excel-Dashboard/blob/main/summary%20dashboard.png)
-
-### Summary Dashboard
-![Overview Dashboard](https://github.com/nikitawarade11/Bank-Loan-Excel-Dashboard/blob/main/overview%20dashboard.png)
-## 👤 About Me
-Aspiring **Data Analyst** with hands-on experience in **Excel, SQL, Power BI, and Python**.  
-Passionate about data analysis, dashboard creation, and generating business insights.
-
----
+### 
+![Bank Dashboard](https://github.com/nikitawarade11/Bank-Loan-Excel-Dashboard/blob/main/bank.png)
 
 ⭐ If you like this project, feel free to star the repository.
