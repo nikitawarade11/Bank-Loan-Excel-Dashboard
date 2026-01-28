@@ -2,10 +2,10 @@
 # 📊 Bank Loan Analysis Dashboard (Excel)
 ## 📸 Dashboard Preview
 
-### Summary Dashboard
+### 
 ![Bank Dashboard](https://github.com/nikitawarade11/Bank-Loan-Excel-Dashboard/blob/main/bank.png)
 
-### Overview Dashboard
+### 
 ![Banking](https://github.com/nikitawarade11/Bank-Loan-Excel-Dashboard/blob/main/bank2.jpg)
 ## 📌 Project Overview
 This project is an **Excel-based Bank Loan Analysis Dashboard** designed to analyze loan applications, funding performance, borrower behavior, and overall loan portfolio health.  
